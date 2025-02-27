@@ -1,5 +1,9 @@
 # 💰 Financial Health Prediction 📊
 
+**Deployed using FastAPI on Render:**
+🔗 [ Financial Health Prediction ](https://machine-learning-13.onrender.com/docs)
+---
+
 ## 🌟 Overview
 Welcome to the **Financial Health Prediction** project! 🚀 This machine learning model predicts an individual's **financial health** based on key financial features such as **income, savings, expenditure, debt, and investment**.
 
